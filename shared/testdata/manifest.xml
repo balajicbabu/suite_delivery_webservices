@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vevoManifest>
+    <Url>file://GBUV71000779_I_AM_ARROWS_Another Picture Of You_with_P_logo_v2.mov</Url>
+    <Username>TESTVEVO</Username>
+    <VideoTitle>Gangnam Style</VideoTitle>
+    <Action>Replace</Action>
+    <Artists>
+        <Artist>Psy</Artist>
+    </Artists>
+    <VideoISRC>USUV71201410</VideoISRC>
+    <Policies>
+        <policy Include="Exclude" Rule="Share">KR JP</policy>
+        <policy Include="Include" Rule="None">KR JP</policy>
+    </Policies>
+    <CorrelationId>ff80808147a181620147a5d266da0061</CorrelationId>
+    <DeliveryConfirmationNotificationId>Mirriad</DeliveryConfirmationNotificationId>
+</vevoManifest>

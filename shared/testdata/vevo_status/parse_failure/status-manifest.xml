@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<channel_status version="2">
+  <timestamp>1393259043.1806004</timestamp>
+  <uploader_name>UMG</uploader_name>
+  <item_status>
+    <timestamp>1393259043.17865</timestamp>
+    <action>
+      <command>Parse</command>
+      <status>Failure</status>
+      <status_detail>MIRRIAD TEST EXAMPLE ERROR FOR PARSE FAILURE</status_detail>
+      <status_code>1101</status_code>
+    </action>
+    <metadata_file>manifest.xml</metadata_file>
+  </item_status>
+</channel_status>

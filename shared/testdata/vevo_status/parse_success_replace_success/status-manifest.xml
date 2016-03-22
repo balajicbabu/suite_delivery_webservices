@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<channel_status version="2">
+  <timestamp>1393450360.8869824</timestamp>
+  <uploader_name>UMGI</uploader_name>
+  <item_status>
+    <timestamp>1393450360.8869824</timestamp>
+    <action>
+      <command>Parse</command>
+      <status>Success</status>
+      <status_detail />
+      <status_code />
+    </action>
+    <metadata_file>manifest.xml</metadata_file>
+  </item_status>
+  <item_status>
+    <timestamp>1393450350.717</timestamp>
+    <action>
+      <command>Replace</command>
+      <status>Success</status>
+      <status_detail />
+      <status_code />
+    </action>
+    <isrc>FIUV71300042</isrc>
+    <id video_id="VideoId" />
+    <title>Marry Me</title>
+  </item_status>
+</channel_status>
